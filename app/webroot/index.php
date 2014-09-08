@@ -1,6 +1,6 @@
 <?php
 /**
- * Index
+ * Index teste Valdir
  *
  * The Front Controller for handling every request
  *
